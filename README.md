@@ -1,5 +1,5 @@
 # Hi, I'm Amaan Ullah 👋
-👀I'm a Web Developer with a passion for building dynamic and responsive websites.🎓 I am currently pursuing my Bachelor of Technology in Computer Science from Abdul Kalam Technical University.
+👀I'm a Web Developer with a passion for building dynamic and responsive websites.🎓 I pursued my Bachelor of Technology in Computer Science from Abdul Kalam Technical University.
 
 - 🔭 I’m currently working on exciting full-stack web development projects.
 - 🌱 I’m diving deep into Back-End Development while honing my React.js skills on the front end.
